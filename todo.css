@@ -1,0 +1,43 @@
+
+
+h1{
+  text-align: center;
+  color: rgb(141, 45, 45) ;
+}
+
+.todo-items{
+  margin: 10px;
+  font-size: 15px;
+}
+
+#todo-btn{
+   color: aliceblue;
+   background-color: green;
+   width: 80px;
+   font-size: 15px;
+   margin: 10px;
+   border-radius: 5px;
+}
+
+#dlt-btn{
+  color: aliceblue;
+   background-color: rgb(182, 9, 9);
+   width: 80px;
+   font-size: 15px;
+   border-radius: 5px;
+}
+
+.grid-container{
+  display: grid;
+  grid-template-columns: 280px 200px 80px;
+  column-gap: 10px;
+  row-gap: 10px;
+}
+
+.todo-container{
+  margin: 1% 2% 1% 30.8%;
+}
+
+.todo-main{
+  margin: 1% 2% 1% 30%;
+}
